@@ -3,4 +3,4 @@
 
 ### image net
 ImageNet Classification with Deep Convolutional Neural 
-- [Networks lecture]: (https://blog.naver.com/rbdus0715/222881858017) "ㅇㅇ"
+- [Networks lecture]: (https://blog.naver.com/rbdus0715/222881858017)
