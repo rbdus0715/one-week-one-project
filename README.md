@@ -6,4 +6,5 @@
 
 ### computer vision
 - (gray-images) object detection  with yolo | [code-practice]()
-- aerial_cactus_identification | [code-practice](https://github.com/rbdus0715/project/blob/main/code-practice/aerial_cactus_identification.ipynb)
+- aerial_cactus_identification | [code-practice](https://github.com/rbdus0715/project/blob/main/code-practice/aerial_cactus_identification.ipynb) | [dataset](https://www.kaggle.com/competitions/aerial-cactus-identification)
+- plant_pathology_identification with transfer learning | [code-practice](https://github.com/rbdus0715/project/blob/main/code-practice/plant_pathology_identification.ipynb) | [dataset](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7)
